@@ -1,3 +1,4 @@
 # hellopword
 introduction
 My name is Gus, and this is my first project on github. I am on here to immerse myself in the world of web development. I enjoy working with computers, listening to music and podcasts, drinking coffee and most of all, spending time with loved ones. I'm on here so that I can change careers and become a better version of myself while providing a service that is actually useful. Some people would say that working retail is useful, and that may be true but it's not fulfilling enough for me. I appreciate art and technology enough that I feel like I can do some great work in this field, and I'm looking forward to learning as much as I can. Here's to the long run, and never to stop learning. Cheers! 
+By the way, I have no idea what I am doing, but that's fine. I'll pick up it eventually. 
